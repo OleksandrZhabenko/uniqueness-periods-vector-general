@@ -1,0 +1,13 @@
+Old name              ->    New name              |
+===================================================
+uniqMaxPoeticalGNV    ->    maximumElBy
+uniqMaxPoeticalGNVL   ->    maximumElByAll
+uniqMaxPoetical2GN    ->    maximumElGBy
+uniqInMaxPoeticalN    ->    maximumElByVec
+uniqInMaxPoeticalNL   ->    maximumElByVecAll
+uniqNPoeticalN        ->    uniqNPropertiesN
+uniqNPoeticalNL       ->    uniqNPropertiesNAll
+uniqNPoeticalVN       ->    uniqNPropertiesVN
+uniqNPoeticalVNL      ->    uniqNPropertiesVNAll
+uniqNPoetical2GN      ->    uniqNProperties2GN
+uniqNProperties2VGN   ->    uniqNProperties2VGN
